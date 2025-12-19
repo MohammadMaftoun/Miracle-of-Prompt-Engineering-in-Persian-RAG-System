@@ -3,6 +3,10 @@
 
 This repository documents a real-world **prompt engineering experiment** where **one comprehensive prompt** was given to **two different Large Language Models**—**Claude** and **Grok**—to generate a **production-ready Persian (Farsi) RAG system** using **TypeScript**.
 
+![MPT](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2024/02/Prompt-Engineering-For-Code-Generation.png)
+
+
+
 The goal of this project is not only to build a Retrieval-Augmented Generation system, but to **demonstrate the power of prompt engineering** by comparing how different models interpret and implement the *exact same instructions*.
 
 ---
